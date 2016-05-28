@@ -6,7 +6,7 @@
 
 In this module I set out to become proficient in the Ruby programming langauge and be able to create fully functional programs.
 
-I aimed to be the best academic student I can be, devouting as much time as I could to make sure that I am proficient with each of the lessons of the day in addition to things I learn on
+I aimed to be the best academic student I can be, devoting as much time as I could to make sure that I am proficient with each of the lessons of the day in addition to things I learn on
 my own.
 
 I also hope to help other students in 1605 as much as I can because in addition to it being helpful for them, it is good for me to go over material.
