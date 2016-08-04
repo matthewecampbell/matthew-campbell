@@ -188,6 +188,5 @@ excitement for owning a small business alive.
 
 ### Notes
 
--
 
 ### Outcome
