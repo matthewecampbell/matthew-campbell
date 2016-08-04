@@ -13,7 +13,11 @@ I also hope to help other students in 1605 as much as I can because in addition 
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+End of mod assessment: 3
+Individual work and projects: 4
+Group work and projects: 4
+Community participation: 3.5
+Peer and instructor feedback: 3
 
 ### Work
 
@@ -108,4 +112,3 @@ Scores:
 ### Outcome
 
 ( Leave blanks for reviewers )
-
