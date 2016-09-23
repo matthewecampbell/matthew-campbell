@@ -111,13 +111,13 @@ Little Shop was our first large Rails application, and our first project in whic
 
 ###### Scores:
 
-1. Feature Completeness:
-2. Views:
-3. Controllers:
-4. Models:
-5. Testing:
-6. Usability:
-7. Workflow:
+1. Feature Completeness: 4
+2. Views: 3
+3. Controllers: 3.5
+4. Models: 4
+5. Testing: 3
+6. Usability: 4
+7. Workflow: 4
 
 ## Community
 
